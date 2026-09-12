@@ -107,6 +107,3 @@ pip freeze > requirements.txt
 
 Data collected from Reddit (public subreddits: electricvehicles, EVcharging, Tesla, cars)
 Open source Python ecosystem used for NLP and analysis
-
-📜 License
-This project is shared for educational purposes as part of a data science portfolio.
